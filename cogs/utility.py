@@ -350,17 +350,14 @@ class Utility(commands.Cog):
             footer = "You are up to date with the latest version."
 
         embed.add_field(
-            name="Want Modmail in Your Server?",
-            value="Follow the installation guide on [GitHub](https://github.com/modmail-dev/modmail/) "
-            "and join our [Discord server](https://discord.gg/cnUpwrnpYb)!",
+            name="Updates",
+            value="This is the most recent version of the bot.",
             inline=False,
         )
 
         embed.add_field(
-            name="Support the Developers",
-            value="This bot is completely free for everyone. We rely on kind individuals "
-            "like you to support us on [`Patreon`](https://patreon.com/kyber) (perks included) "
-            "to keep this bot free forever!",
+            name="Cj's Commisions Hosting",
+            value="Join our [Discord server](https://discord.gg/F9yPkvcTzY) And open a ticket to get it hosted for cheap!"
             inline=False,
         )
 
